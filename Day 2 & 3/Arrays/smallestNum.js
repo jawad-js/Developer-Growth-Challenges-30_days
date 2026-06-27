@@ -1,3 +1,5 @@
+//  - [ ] Find the smallest number in an array.
+
 let arr = [46, 35, 24, 12];
 
 let smallest = arr[0];

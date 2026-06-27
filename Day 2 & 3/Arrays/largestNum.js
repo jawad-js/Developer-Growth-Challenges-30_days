@@ -1,3 +1,5 @@
+// - [ ] Find the largest number in an array.
+
 let arr = [12, 24, 35, 57, 46];
 
 let largest = arr[0];
@@ -24,6 +26,9 @@ console.log(`found largest number: ${largest}`);
                             Continue until the end
 */
 
+const numbers = [24, 56, 12, 54, 62];
+let large = Math.max(...numbers)
+console.log(large)
 /* 
                             Imagine the array is a closed box.
 
@@ -44,7 +49,4 @@ console.log(`found largest number: ${largest}`);
                             The spread operator takes an array and spreads its elements into individual values.
 */
 
-const numbers = [24, 56, 12, 54, 62];
-let large = Math.max(...numbers)
-console.log(large)
 

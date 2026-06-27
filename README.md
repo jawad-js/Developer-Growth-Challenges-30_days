@@ -25,6 +25,9 @@
 
 ## *Day - 1* 
 
+Practiced Functions and Arrays Questions
+
+## *Day - 2 & 3*
 
 
 ## 🌱 Learning in Public
