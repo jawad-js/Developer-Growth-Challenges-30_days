@@ -14,13 +14,13 @@ for (let i = 0; i < numbers.length; i++) {
 
 // Using for of loop
 let sum2 = 0
-for (nums of numbers) {
-  sum2 += numbers;
+for (let nums of numbers) {
+  sum2 += nums;
 }
 
 console.log(sum); // using reduce array method
 console.log(sum1); // using standard loop
-console.log(sum1); // using for of loop
+console.log(sum2); // using for of loop
 
 /* 
 += is the addition assignment operator, which adds the right operand to the left variable and assigns the result back to it, (equivalent to x = x + y).
