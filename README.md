@@ -23,11 +23,10 @@
 6. Documenting the journey
 ---
 
-## *Day - 1* 
+## *Day - 1 to 3* 
 
 Practiced Functions and Arrays Questions
 
-## *Day - 2 & 3*
 
 
 ## 🌱 Learning in Public
